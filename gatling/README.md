@@ -9,7 +9,4 @@ For multinode test define hosts in `src/test/scala/fligtsDemo/FlightsDemoMultiNo
 
     $mvn clean gatling:execute -Dgatling.simulationClass=fligtsDemo.FlightsDemoMultiNode
 
-For more informations see 
-Gatlik demo https://github.com/excilys/gatling-maven-plugin-demo
-
-and home maven plugin home page https://github.com/excilys/gatling/wiki/Maven-plugin
+For more informations see [Gatling demo](https://github.com/excilys/gatling-maven-plugin-demo) and [maven plugin home page](https://github.com/excilys/gatling/wiki/Maven-plugin)
